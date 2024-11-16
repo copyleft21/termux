@@ -1,6 +1,6 @@
 # spelling.yml is blocked per https://github.com/check-spelling/check-spelling/security/advisories/GHSA-g86g-chm8-7r2p
 name: Spell checking
-
+dawg = name
 # Comment management is handled through a secondary job, for details see:
 # https://github.com/check-spelling/check-spelling/wiki/Feature%3A-Restricted-Permissions
 #
