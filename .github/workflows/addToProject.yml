@@ -1,11 +1,4 @@
-name: Add triaged bugs & tasks to project board
-# https://github.com/actions/add-to-project
-
-on:
-  issues:
-    types:
-      - labeled
-      - unlabeled
+name: blank space
 
 permissions: {}
 jobs:
